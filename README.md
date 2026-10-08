@@ -3,25 +3,23 @@
 This project aims to analyze the sales performance and logistical patterns of a major e-commerce platform. The goal is to transform raw, fragmented data into meaningful business intelligence regarding sales trends, product popularity, and shipping efficiency.
 
 Visualizations
-![Top Products](top_products.png)
+
 <p align="center">
   <img src="top_products.png" alt="Top Products" width="600">
 </p>
-![Monthly Orders](monthly_orders.png)
 <p align="center">
   <img src="monthly_orders.png" alt="Top Products" width="600">
 </p>
-![Price & Frieght Analysis](price&frieght_analysis.png)
 <p align="center">
   <img src="price&frieght_analysis.png" alt="Price & Frieght Analysis" width="600">
 </p>
-
 
 
 🛠️ Tech Stack
 Language: Python
 Libraries: Pandas (Data Manipulation), NumPy (Numerical Computing), Matplotlib (Data Visualization)
 Environment: Jupyter Notebook
+
 📈 Key Analysis & Insights
 1. Data Integration & Cleaning
 Successfully merged disparate datasets (Customers, Orders, Items, Payments, and Products) into a unified analytical structure.
