@@ -14,11 +14,24 @@ Visualizations
   <img src="price&frieght_analysis.png" alt="Price & Frieght Analysis" width="600">
 </p>
 
+## 🛠 Tech Stack & Environment
 
-🛠️ Tech Stack
-Language: Python
-Libraries: Pandas (Data Manipulation), NumPy (Numerical Computing), Matplotlib (Data Visualization)
-Environment: Jupyter Notebook
+### 💻 Development Environment
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344a833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+
+### 📚 Libraries Used
+In this project, the following key libraries were utilized for data processing and visualization:
+
+* **Data Manipulation:**
+  * `Pandas`: For efficient data structures and data analysis.
+  * `NumPy`: For high-performance scientific computing and array operations.
+
+* **Data Visualization:**
+  * `Matplotlib`: For creating static, interactive, and animated visualizations.
+
+
 
 📈 Key Analysis & Insights
 1. Data Integration & Cleaning
